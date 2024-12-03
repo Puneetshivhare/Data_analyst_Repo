@@ -37,12 +37,12 @@ data-analyst-portfolio/
 ├── README.md
 └── LICENSE
 ```
-📊 Tools & Technologies
-SQL: Querying and managing relational databases.
-Power BI: Building interactive dashboards and visualizations.
-Python (optional): Additional data cleaning or analysis.
+**📊 Tools & Technologies**
+-SQL: Querying and managing relational databases.
+-Power BI: Building interactive dashboards and visualizations.
+-Python : Additional data cleaning or analysis.
 
-📝 Future Plans
-Add projects showcasing real-world datasets.
-Expand insights with advanced analytics.
-Experiment with more data visualization tools.
+**📝 Future Plans**
+-Add projects showcasing real-world datasets.
+-Expand insights with advanced analytics.
+-Experiment with more data visualization tools.
